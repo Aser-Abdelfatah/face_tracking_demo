@@ -7,7 +7,7 @@ This repository contains an Arduino sketch (`face_tracking_swift_yolo_XIAO_Grove
 
 1. **Clone this repository:**
    ```bash
-   git clone https://Aser-Abdelfatah/face_tracking_demo.git
+   git clone https://github.com/Aser-Abdelfatah/face_tracking_demo.git
    ```
 2. **Open the `.ino` file** in the Arduino IDE.
 3. **Connect your XIAO Grove Vision Board** to your computer.
